@@ -13,6 +13,7 @@ export default {
 <template>
   <div class="container">
     ciao
+    <AppJumbo />
   </div>
 </template>
 

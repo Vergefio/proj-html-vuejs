@@ -5,9 +5,9 @@ export default {
 </script>
 
 <template>
-    <div class="container py-3 col-1">
-        <h1>{{title}}</h1>
-        <img src="/slider52x.jpg" alt="">
+    <div class="">
+        <h2>titolo di prova</h2>
+        <img src="/images/slider52x.jpg" alt="">
     </div>
 </template>
 

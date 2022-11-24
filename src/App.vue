@@ -1,15 +1,21 @@
 <script>
+
+import AppJumbo from './components/AppJumbo.vue'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    AppJumbo
+  }
 }
 </script>
 
 <template>
-  
+  <div class="container">
+    ciao
+  </div>
 </template>
 
-
-
-<style>
-
+<style lang="scss">
+  @use './styles/general';
 </style>

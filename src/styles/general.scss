@@ -1,0 +1,7 @@
+@use './partials/vars' as *;
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+body {
+    color: $primary-color;
+    background-image: './slider52x.jpg';
+}
